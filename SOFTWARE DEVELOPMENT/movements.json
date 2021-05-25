@@ -3,7 +3,7 @@
   "name": "PUSH UPS",
   "image": "M1-PushUps3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M1-PushUps.mp4",
-  "instructions": "To start the workout, elbows most be locked up before starting the work out, The chest most touch the ground in every repetition",
+  "instructions": "To start the workout, elbows must be locked up before starting the work out, the chest must touch the ground in every repetition.",
   "date": "2021-03-03T23:19:37.524Z",
   "__v": 0
 },{
@@ -11,221 +11,207 @@
   "name": "SIT UPS",
   "image": "M2-SitUps2.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M2-SitUps.mp4",
-  "instructions": "To start the workout, feet most be in butterfly position, hands touching the ground on the back of your head. Rep counts when both of your hands touch the floor in front of your feet",
+  "instructions": "To start the workout, feet must be in butterfly position, hands touching the ground on the back of your head, repetition counts when both hands touch the floor in front of the feet.",
   "date": "2021-03-03T23:19:37.619Z",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e92a",
-  "name": "AIR-SQUATS",
+  "name": "AIR SQUATS",
   "image": "M3-AirSquats3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M3-AirSquats.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, body must be at full extension (knees and hips straight), repetition counts when hips break parallel with the knees and go to full extension with the bar on the back.",
   "date": "2021-03-03T23:19:37.681Z",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e92f",
-  "name": "STRICT PULL-UPS",
+  "name": "STRICT PULL UPS",
   "image": "M4-StrictPullUps2.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M4-StrictPullUps.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must be hanging on the bar with both arms at full extension, repetition counts when the chin passes over the bar.",
   "date": "2021-03-03T23:19:37.737Z",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e934",
-  "name": "BUTTERFLY PULL-UPS",
+  "name": "BUTTERFLY PULL UPS",
   "image": "M5-ButterflyPU3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M5-ButterflyPU.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must be hanging on the bar with both arms at full extension, repetition counts when the chin passes over the bar.",
   "date": "2021-03-03T23:19:37.806Z",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e939",
-  "name": "CHEST TO BAR",
+  "name": "CHEST TO BAR PULL UPS",
   "image": "M6-ButterflyC2B4.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M6-ButterflyC2B.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must be hanging on the bar with both arms at full extension, repetition counts when the chest touches the bar.",
   "date": "2021-03-03T23:19:37.883Z",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e940",
-  "name": "BAR MUSCLE UP",
+  "name": "BAR MUSCLE UPS",
   "image": "M7-BarMuscleUps3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M7-BarMuscleUPS.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must be hanging on the bar with both arms at full extension, repetition counts when player finishes the dip over the bar.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e941",
   "name": "RING MUSCLE UPS",
   "image": "M8-RingMuscleUps5.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M8-RingMuscleUps.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must be hanging on the rings with both arms at full extension, repetition counts when player finishes the dip over the rings.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e942",
   "name": "TOES TO BAR",
   "image": "M9-Toestobar2.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M9-Toestobar.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must be hanging on the bar with both arms at full extension, the repetition counts when both feet touch the bar.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e943",
   "name": "BENCH PRESS",
   "image": "M10-BenchPress.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M10-BenchPress.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must have both arms fully extended grabbing with the bar, repetition counts when the bar touches the chest and go up to full extension of the arms.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e944",
   "name": "BACK SQUAT",
   "image": "M11-BackSquat3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M11-BackSquat.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, body must be at full extension (knees and hips straight), repetition counts when hips break parallel with the knees and go to full extension with the bar on the back.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e945",
   "name": "DEAD LIFT",
   "image": "M12-Deadlift2.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M12-Deadlift.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must grab the bar with both hands outside the knees and pull the bar up, repetition counts when player reaches full extension of the body.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e946",
   "name": "SQUAT SNATCH",
   "image": "M13-SquatSnatch3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M13-SquatSnatch.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must grab the bar with both hands outside the knees, pull to overhead and catch in the bottom of the squat, repetition counts when player fully extends the body with the bar overhead.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e962",
   "name": "CLEAN AND JERK",
   "image": "M14-Clean_SplitJerk5.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M14-CleanAndJerk.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must grab the bar with both hands outside the knees, pull to front rack position and push the bar overhead, repetition counts when player fully extends the body with the bar overhead.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e947",
   "name": "BOX JUMPS",
   "image": "M15-BoxJumps3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M15-BoxJumps.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must stand with both feet on the ground and jump on top of the box, repetition counts when player fully extends the body on top of the box.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e948",
-  "name": "KETTLEBELL SWING",
+  "name": "KETTLEBELL SWINGS",
   "image": "M16-KB-Swings4.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M16-KBSwings.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, player must hold the kettlebell with both hands and pull to overhead position, repetition counts when player fully extends the body with the kettlebell overhead.",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e949",
   "name": "DOUBLE UNDERS",
   "image": "M17-Double Unders.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M17-DoubleUnders.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e963",
-  "name": "CLEAN AND SPLIT JERK",
+  "name": "OVER HEAD SQUATS",
   "image": "M18-OverHeadSquats2.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M18-CleanAndSplitJerk.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e950",
-  "name": "SQUAT CLEAN",
+  "name": "SQUAT CLEANS",
   "image": "M19-SquatClean3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M19-SquatClean.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e951",
   "name": "WALL BALL SHOTS",
   "image": "M20-WallBallShots.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M20-WallBallShots.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e952",
   "name": "BURPEE BOX JUMP",
   "image": "M21-Burpee-BoxJumps.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M21-BurpeeBoxJump.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e953",
-  "name": "FRONT SQUAT",
+  "name": "FRONT SQUATS",
   "image": "M22-FrontSquat4.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M22-FrontSquat.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e954",
-  "name": "BURPEE",
+  "name": "BURPEES",
   "image": "M23-Burpees4.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M23-Burpee.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e955",
   "name": "THRUSTERS",
   "image": "M24-Thrusters.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M24-Thrusters.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e956",
   "name": "POWER SNATCH",
   "image": "M25-PowerSnatch4.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M25-PowerSntach.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e957",
   "name": "POWER CLEAN",
   "image": "M26-PowerClean3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M26-PowerClean.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e958",
   "name": "STRICT PRESS",
   "image": "M27-StrictPress2.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M27-StrictPress.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e959",
   "name": "PUSH PRESS",
   "image": "M28-PushPress3.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M28-PushPress.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e960",
-  "name": "HAND STAND PUSH UP",
+  "name": "HAND STAND PUSH UPS",
   "image": "M30-HSPU.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M29-HSPU.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 },{
   "_id": "60401989c1a892757528e961",
-  "name": "STRICT HAND STAND PUSH UP",
+  "name": "STRICT HAND STAND PUSH UPS",
   "image": "M30-HSPU2.jpg",
   "video": "https://bynd-fittest.com/public/uploads/videos/M30-StrictHSPU.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
-  "__v": 0
-},{
-  "_id": "60401989c1a892757528e964",
-  "name": "KIPPING PUSH UP",
-  "image": "M5-KippingPU3.jpg",
-  "video": "https://bynd-fittest.com/public/uploads/videos/M5-KippingPU.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
-  "__v": 0
-},{
-  "_id": "60401989c1a892757528e965",
-  "name": "KIPPING CHEST TO BAR",
-  "image": "M6-KippingC2B3.jpg",
-  "video": "https://bynd-fittest.com/public/uploads/videos/M6-KippingChest2Bar.mp4",
-  "instructions": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis no>",
+  "instructions": "To start the workout, ",
   "__v": 0
 }]
